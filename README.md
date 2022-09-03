@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Júlio Soares
 
 
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estudando React.js
-- 😄 Pronouns: ele/dele
+-  Hoje trabalho com Front-End
+-  Estudando React.js
+-  Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/jjpegado">
