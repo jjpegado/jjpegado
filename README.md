@@ -2,7 +2,7 @@
 
 
 -  Hoje trabalho com Front-End
--  Estudando React.js
+-  Estudando Full Stack
 -  Pronouns: ele/dele
 
 <div align="center">
