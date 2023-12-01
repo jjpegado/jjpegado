@@ -24,4 +24,4 @@
 
 ⏲️ I started to register my coding time with [WakaTime:](https://wakatime.com/)
 
-[![][wakatime](https://wakatime.com/badge/user/018c0952-25c9-4fd5-ab85-d2cdd9f1d3d2.svg)](https://wakatime.com/@018c0952-25c9-4fd5-ab85-d2cdd9f1d3d2)
+[![wakatime](https://wakatime.com/badge/user/018c0952-25c9-4fd5-ab85-d2cdd9f1d3d2.svg)](https://wakatime.com/@018c0952-25c9-4fd5-ab85-d2cdd9f1d3d2)
