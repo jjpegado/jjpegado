@@ -1,6 +1,5 @@
 <h1 align="center">Oi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Meu Nome é Julio Soares</h1>
 
-
 -  Hoje trabalho com Front-End
 -  Estudando Full Stack
 -  Pronouns: ele/dele
@@ -8,8 +7,7 @@
 <div align="center">
   <a href="https://github.com/jjpegado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjpegado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjpegado&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
@@ -23,3 +21,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
   <img align="center" alt="julio-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" /> 
 </div>
+
+⏲️ I started to register my coding time with [WakaTime:](https://wakatime.com/)
+
+[![wakatime](https://wakatime.com/badge/user/018c0952-25c9-4fd5-ab85-d2cdd9f1d3d2.svg)](https://wakatime.com/@018c0952-25c9-4fd5-ab85-d2cdd9f1d3d2)
