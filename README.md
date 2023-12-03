@@ -1,4 +1,4 @@
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is Julio Soares</h1>
+<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">my name is Julio Soares</h1>
 
 -  Hoje trabalho com Front-End
 -  Estudando Full Stack
