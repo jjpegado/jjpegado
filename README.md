@@ -22,8 +22,9 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
   <img align="center" alt="julio-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" /> 
 </div>
-<br>
 ##
+<br>
+
 ⏲️ I started to register my coding time with [WakaTime:](https://wakatime.com/)
 
 [![wakatime](https://wakatime.com/badge/user/018c0952-25c9-4fd5-ab85-d2cdd9f1d3d2.svg)](https://wakatime.com/@018c0952-25c9-4fd5-ab85-d2cdd9f1d3d2)
