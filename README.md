@@ -22,6 +22,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  align="center" height="30" width="40" alt="git logo"  />
   <img align="center" alt="julio-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" align="center" height="30" width="40" alt="postgresql logo"  />
 </div> <br>
 
 ⏲️ I started to register my coding time with [WakaTime:](https://wakatime.com/)
