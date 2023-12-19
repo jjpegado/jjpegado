@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15F7D4&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Hi%2CMy+Name+Is+Julio+Soares)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15F7D4&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&random=falso&width=435&lines=Hi%2CMy+Name+Is+Julio+Soares)](https://git.io/typing-svg)
 
+##
 <h1 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">My Name Is Julio Soares</h1>
 
 -  Hoje trabalho com Front-End
