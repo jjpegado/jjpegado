@@ -4,7 +4,7 @@
 ##
 
 -  Hoje trabalho com Front-End
--  Estudando Full Stack
+-  Estudando Back-end
 -  Pronouns: ele/dele
 
 ##
