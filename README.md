@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15F7D4&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&random=falso&width=435&lines=Hi%2CMy+Name+Is+Julio+Soares)](https://git.io/typing-svg)
-
 ##
 
 -  Hoje trabalho com Front-End
@@ -28,7 +27,7 @@
   <img align="center" alt="julio-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" align="center" height="30" width="40" alt="postgresql logo"  />
 </div> <br>
-
+##
 ⏲️ I started to register my coding time with [WakaTime:](https://wakatime.com/)
 
 [![wakatime](https://wakatime.com/badge/user/018c0952-25c9-4fd5-ab85-d2cdd9f1d3d2.svg)](https://wakatime.com/@018c0952-25c9-4fd5-ab85-d2cdd9f1d3d2)
