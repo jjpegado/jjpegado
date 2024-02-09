@@ -5,7 +5,7 @@
 
 🎓 Formação FullStack pela Cubos Academy.
 👨🏼‍💻 Meu portfolío
-Projetos:<a href="https://admirable-buttercream-39eb77.netlify.app/" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+Projetos:<a href="https://admirable-buttercream-39eb77.netlify.app/" target="_blank"> </a>
 
 ##
 <div align="center">
