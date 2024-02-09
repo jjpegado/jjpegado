@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15F7D4&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&random=falso&width=435&lines=Hi%2CMy+Name+Is+Julio+Soares)](https://git.io/typing-svg)
 ##
 
--  Hoje trabalho com Front-End
--  Estudando Back-end
--  Pronouns: ele/dele
+🎓 Formação FullStack pela Cubos Academy.
+👨🏼‍💻 Meu portfolío
+Projetos:<a href="https://admirable-buttercream-39eb77.netlify.app/" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ##
 <div align="center">
