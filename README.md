@@ -3,12 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15F7D4&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&random=falso&width=435&lines=Hi%2CMy+Name+Is+Julio+Soares)](https://git.io/typing-svg)
 ##
 
-🎓 Formação FullStack pela Cubos Academy.
+🎓 FullStack training by Cubos Academy.
 <br>
-👨🏼‍💻 Meu portfolío
-Projetos:<a href="https://admirable-buttercream-39eb77.netlify.app/" target="_blank">Link</a>
+👨🏼‍💻 My portfolio
+Projects:<a href="https://admirable-buttercream-39eb77.netlify.app/" target="_blank">Link</a>
 
-##
+## GitHub Stats ⚡
 <div align="center">
   <a href="https://github.com/jjpegado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjpegado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -33,6 +33,6 @@ Projetos:<a href="https://admirable-buttercream-39eb77.netlify.app/" target="_bl
 
 [![wakatime](https://wakatime.com/badge/user/018c0952-25c9-4fd5-ab85-d2cdd9f1d3d2.svg)](https://wakatime.com/@018c0952-25c9-4fd5-ab85-d2cdd9f1d3d2)
 
-
+## Reach me 📫
   <a href="https://www.instagram.com/dev_julio.s/" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/j%C3%BAlio-soares-984246243/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
