@@ -32,8 +32,9 @@ Projects:<a href="https://admirable-buttercream-39eb77.netlify.app/" target="_bl
 </div> <br>
 
 ⏲️ I started to register my coding time with [WakaTime:](https://wakatime.com/)
-
-[![wakatime](https://wakatime.com/badge/user/018c0952-25c9-4fd5-ab85-d2cdd9f1d3d2.svg)](https://wakatime.com/@018c0952-25c9-4fd5-ab85-d2cdd9f1d3d2)
+<div align="center"> 
+<a href="https://wakatime.com/@018c0952-25c9-4fd5-ab85-d2cdd9f1d3d2"><img src="https://wakatime.com/badge/user/018c0952-25c9-4fd5-ab85-d2cdd9f1d3d2.svg" alt="Total time coded since Nov 25 2023" /></a>
+</div>
 
 ## Reach me 📫
 <div align="center">
