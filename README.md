@@ -2,10 +2,9 @@
 
 <div  align="center">
 <a href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29F7D2&random=false&width=435&lines=Hi%2C+my+name+is+J%C3%BAlio+Soares;+Welcome+%C3%97%CD%9C%C3%97" alt="Typing SVG" /></a>
-##
 </div>
 
-
+##
 🎓 FullStack training by Cubos Academy.
 <br>
 👨🏼‍💻 My portfolio
