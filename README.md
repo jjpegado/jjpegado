@@ -31,7 +31,7 @@ Projects:<a href="https://admirable-buttercream-39eb77.netlify.app/" target="_bl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" align="center" height="30" width="40" alt="postgresql logo"  />
 </div> <br>
 
-⏲️ I started to register my coding time with [WakaTime:](https://wakatime.com/)
+## ⏲️ I started to register my coding time with [WakaTime:](https://wakatime.com/)
 <div align="center"> 
 <a href="https://wakatime.com/@018c0952-25c9-4fd5-ab85-d2cdd9f1d3d2"><img src="https://wakatime.com/badge/user/018c0952-25c9-4fd5-ab85-d2cdd9f1d3d2.svg" alt="Total time coded since Nov 25 2023" /></a>
 </div>
