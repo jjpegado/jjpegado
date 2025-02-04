@@ -7,7 +7,7 @@
 ##
 🎓 FullStack training by Cubos Academy.  <br>
 👨🏼‍💻 My portfolio
-  Projects: 🚧 <a href="https://admirable-buttercream-39eb77.netlify.app/" target="_blank">Link</a> 
+  Projects:  <a href="https://admirable-buttercream-39eb77.netlify.app/" target="_blank">Link</a> 
 
 ## GitHub Stats ⚡
 <div align="center">
